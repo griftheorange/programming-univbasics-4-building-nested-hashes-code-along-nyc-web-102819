@@ -13,3 +13,5 @@ def second_challenge
         :heroine_friends => []
   
 end
+
+puts epic_tragedy[:montague].keys
