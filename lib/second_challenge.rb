@@ -14,5 +14,3 @@ def second_challenge
     }
   }
 end
-
-puts epic_tragedy[:montague].keys
